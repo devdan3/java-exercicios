@@ -1,0 +1,1 @@
+package utils;public class RecursionUtils {    public static int somatorio(int number) {       if(number == 0) {           return 0;       }       return number + somatorio(number - 1);    }}

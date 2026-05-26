@@ -1,0 +1,1 @@
+package util;public class MathUtil {    public static boolean ehPrimo(int number) {        if (number < 2) {            return false;        }        else {            for(int i = 2; i < number; i++) {                if(number % i == 0) {                    return false;                }            }        }        return true;    }}
