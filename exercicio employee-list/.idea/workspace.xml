@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="77625362-c314-401c-87a1-bae473e0b51f" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="0f7e3838-c4c5-4af6-b97f-d6b647989ca8" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../desafio vetores_pensionato/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../desafio vetores_pensionato/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,10 +23,10 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 3,
+  &quot;associatedIndex&quot;: 4,
   &quot;fromUser&quot;: false
 }</component>
-  <component name="ProjectId" id="3DpPB32IZeLaSSMpcQOE6OFxAWj" />
+  <component name="ProjectId" id="3E2wzdb3zNSbnSgl2p9iUX5QUdW" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -46,22 +46,32 @@
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/Familia/IdeaProjects/java-exercicios/desafio vetores_pensionato/src/Main.java&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/Familia/IdeaProjects/java-exercicios/exercicio employee-list/src/Main.java&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;
   }
 }</component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="77625362-c314-401c-87a1-bae473e0b51f" name="Changes" comment="" />
-      <created>1778975900889</created>
+      <changelist id="0f7e3838-c4c5-4af6-b97f-d6b647989ca8" name="Changes" comment="" />
+      <created>1779390239174</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1778975900889</updated>
+      <updated>1779390239174</updated>
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.util.UnknownFormatConversionException" package="java.util" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
