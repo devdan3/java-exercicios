@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f41bf4f1-62fe-4438-a03c-a491f56b86bf" name="Changes" comment="corrigindo nome do pacote entities" />
+    <list default="true" id="f41bf4f1-62fe-4438-a03c-a491f56b86bf" name="Changes" comment="corrigindo nome do pacote entities">
+      <change beforePath="$PROJECT_DIR$/../estudosHeranca/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../estudosHeranca/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
