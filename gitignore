@@ -1,0 +1,29 @@
+# ---- IntelliJ / JetBrains ----
+.idea/
+*.iml
+*.ipr
+*.iws
+out/
+
+# ---- Compilados Java ----
+*.class
+target/
+build/
+
+# ---- Maven ----
+.mvn/
+mvnw
+mvnw.cmd
+
+# ---- Gradle ----
+.gradle/
+gradle/
+gradlew
+gradlew.bat
+
+# ---- Sistema Operacional ----
+.DS_Store
+Thumbs.db
+
+# ---- Logs ----
+*.log

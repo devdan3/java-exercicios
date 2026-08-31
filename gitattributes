@@ -1,0 +1,22 @@
+# Força todos os arquivos de texto a usarem LF (Unix/macOS),
+# independente do sistema operacional de quem clonar/commitar.
+* text=auto eol=lf
+
+# Arquivos Java sempre como texto, sempre LF
+*.java text eol=lf
+
+# Arquivos de configuração comuns
+*.xml text eol=lf
+*.properties text eol=lf
+*.yml text eol=lf
+*.yaml text eol=lf
+*.md text eol=lf
+*.gitignore text eol=lf
+*.gitattributes text eol=lf
+
+# Arquivos binários (nunca devem ter conversão de linha aplicada)
+*.jar binary
+*.class binary
+*.png binary
+*.jpg binary
+*.jpeg binary
